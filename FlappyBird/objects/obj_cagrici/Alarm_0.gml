@@ -1,0 +1,11 @@
+randomize();
+cagirma_y = irandom_range(0,400);
+var ust_boru = instance_create_layer(x,cagirma_y,"Instances",obj_ust_boru);
+ust_boru.image_angle = 180;
+ust_boru.image_xscale *= 4;
+ust_boru.image_yscale *= 4;
+var alt_boru = instance_create_layer(x,ust_boru.y+500,"Instances",obj_alt_boru);
+alt_boru.image_xscale *= 4;
+alt_boru.image_yscale *= 4;
+instance_create_layer(x,cagirma_y,"Instances",obj_skor_arttiran);
+alarm[0] = 200;
