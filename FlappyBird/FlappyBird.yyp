@@ -8,7 +8,7 @@
     {"id":{"name":"obj_skor_arttiran","path":"objects/obj_skor_arttiran/obj_skor_arttiran.yy",},"order":4,},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"obj_ust_boru","path":"objects/obj_ust_boru/obj_ust_boru.yy",},"order":1,},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"spr_kus","path":"sprites/spr_kus/spr_kus.yy",},"order":0,},
     {"id":{"name":"sfx_point","path":"sounds/sfx_point/sfx_point.yy",},"order":0,},
     {"id":{"name":"sfx_die","path":"sounds/sfx_die/sfx_die.yy",},"order":3,},
     {"id":{"name":"spr_boru","path":"sprites/spr_boru/spr_boru.yy",},"order":1,},
