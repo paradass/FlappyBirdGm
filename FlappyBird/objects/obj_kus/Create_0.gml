@@ -14,4 +14,5 @@ image_angle = -20;
 //image_yscale *= 4;
 motion_set(-90,5);
 audio_play_sound(undertale_ost_059_spider_dance,1,true);
-instance_destroy();
+
+
